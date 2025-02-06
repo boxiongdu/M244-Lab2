@@ -1,5 +1,6 @@
 # M244-Lab2
 
+<<<<<<< HEAD
 ## Write Poem
 
 **GitHub: The Coder’s Haven**
@@ -28,3 +29,6 @@ Oh, GitHub, where creators meet,
 In repos vast and cleanly neat.
 Through every push and every clone,
 You make the digital world our own.
+=======
+Collaborators:
+>>>>>>> fa0c04d (edit content)
