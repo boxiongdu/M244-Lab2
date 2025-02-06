@@ -29,6 +29,17 @@ Oh, GitHub, where creators meet,
 In repos vast and cleanly neat.
 Through every push and every clone,
 You make the digital world our own.
+
+Push your code, make it fly,
+Up to GitHub, way up high.
+Pull it down, check what's new,
+Merge the changes, fix a few.
+
+Branches grow, then combine,
+Lines of code now intertwine.
+Push again, the work is done,
+Collab in sync—devs as one! 
+
 =======
 Collaborators:
 >>>>>>> fa0c04d (edit content)
