@@ -4,7 +4,7 @@
 
 **GitHub: The Coder’s Haven**
 
-In digital realms where coders thrive,
+In digital  where coders thrive,
 A home for dreams comes alive.
 Lines of logic, crisp and bright,
 Stored in branches, taking flight.
